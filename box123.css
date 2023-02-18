@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+body img{
+    margin-left: 44%;
+    margin-top: 2%;
+}
+body h3{
+    color: red;
+    text-align: center;
+    padding-top: 15%;
+}
+body p{
+    text-align: center;
+    padding-top: 3%;
+}
+body p a{
+    color: pink;
+    text-decoration: none;
+}
+.body p a:hover{
+    color: white;
+}

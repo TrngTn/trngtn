@@ -1,0 +1,66 @@
+html{
+    background-color: black;
+}
+header{
+    background-color: black;
+    text-align: center;
+}
+header h1{
+    color: pink;
+    font-size: 500%;
+    padding-top: 3%;
+}
+.container{
+    width: 100%;
+}
+.container h3{
+    text-align: center;
+    padding: 8%;
+}
+.container h3 a{
+    color: pink;
+    text-decoration: none;
+}
+.container h3 a:hover{
+    color: white;
+}
+.box1{
+    width: 50%;
+    height: 200px;
+    float: left;
+    background-color:chocolate
+}
+.box2{
+    width: 50%;
+    height: 200px;
+    float: right;
+    background-color: darkorange;
+}
+.box3{
+    width: 50%;
+    height: 200px;
+    float: left;
+    background-color: darkslategrey;
+}
+.box4{
+    width: 50%;
+    height: 200px;
+    float: right;
+    background-color: indigo;
+}
+.ps{
+    color: pink;
+    text-align: center;
+    padding-top: 23%;
+}
+.container h4{
+    text-align: center;
+    padding-top: 1%;
+}
+.container h4 a{
+    color: pink;
+    text-decoration: none;
+}
+.container h4 a:hover{
+    color: white;
+}
